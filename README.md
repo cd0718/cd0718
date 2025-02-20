@@ -6,10 +6,10 @@
 - 🌱 I’m currently learning **Java, python**
 
 - 👯 I’m looking to collaborate on **durianpy Website**
-
+    
 - 🤝 I’m looking for help with **Web Development**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, C#**
 
 - 📫 How to reach me **dacleschristine63@gmail.com**
 
